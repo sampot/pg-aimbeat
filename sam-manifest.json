@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rev": "91e3684",
+  "files": [
+    "app.js",
+    "assets/crosshairs/crosshair-000.png",
+    "assets/crosshairs/crosshair-032.png",
+    "assets/crosshairs/crosshair-078.png",
+    "assets/crosshairs/crosshair-121.png",
+    "functions.js",
+    "game.js",
+    "index.html",
+    "styles.css"
+  ]
+}
